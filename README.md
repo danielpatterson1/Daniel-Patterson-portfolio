@@ -12,10 +12,10 @@ Welcome to my analytics portfolio. This website highlights my public data projec
   👉 [View Tesla Report](./tesla-report.html)
  
 - 🧾 **Work Wins & Case Studies** 
-  👉 [View Work Wins](./work-wins)
+  👉 [View Work Wins](./Work-wins.md)
  
 - 👋 **About Me** 
-  👉 [View About Page](./about)
+  👉 [View About Page](./About.md)
  
 ---
  
