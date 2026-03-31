@@ -52,6 +52,7 @@ A quick introduction to my background, strengths, and technical stack.
 ## 📬 Contact Me
 **LinkedIn:** 
 [https://www.linkedin.com/in/daniel-patterson-b03a5718b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhucT2rP%2BT9q9Mqa0T4LFpw%3D%3D](https://www.linkedin.com/in/daniel-patterson-b03a5718b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhucT2rP%2BT9q9Mqa0T4LFpw%3D%3D) 
+
 **Email:** [dpatterson6575@gmail.com](dpatterson6575@gmail.com)
  
 Thanks for visiting my portfolio!
