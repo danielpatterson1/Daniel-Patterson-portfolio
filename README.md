@@ -9,7 +9,7 @@ Welcome to my analytics portfolio. This website highlights my public data projec
 **Use the links below to explore my work:**
  
 - 🚗 **Tesla Fatal Crash Weather Analysis (HTML Report)**  
-  👉 [View Tesla Report](./Tesla.report.html)
+  👉 [View Tesla Report](./tesla-report.html)
  
 - 🧾 **Work Wins & Case Studies** 
   👉 [View Work Wins](./work-wins)
