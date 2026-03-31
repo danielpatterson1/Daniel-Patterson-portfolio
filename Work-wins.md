@@ -90,14 +90,14 @@ I was selected to present the Duplicate Payment Review findings to the entire BS
 The session covered financial exposure, root‑cause analysis, dashboards, and the process updates that drove a **~60% reduction** in duplicates.
  
 <div style="text-align:center; margin:20px 0;">
-  <img src="./assets/presentations/duplicate-review-presenting.jpeg" width="500">
+  <img src="./assets/presentations/duplicate-review-presenting.jpeg" width="80%" />
   <p><em>Presenting the Duplicate Payment Review to 100+ BSO team members (2025).</em></p>
 </div>
  
 This work was later featured in the **company‑wide BSO ONE Episode 4 (February 2026)**, highlighting analyst contributions:
  
 <div style="text-align:center; margin:20px 0;">
-  <img src="./assets/presentations/bso-one-collage.jpeg" width="500">
+  <img src="./assets/presentations/bso-one-collage.jpeg" width="80%" />
   <p><em>Featured in BSO ONE Episode 4 (2026) for analytics impact.</em></p>
 </div>
  
@@ -112,7 +112,7 @@ I delivered **two back‑to‑back presentations** to groups of **50+ BSO team m
 - ✅ Recognized for clarity, composure, and communication strength 
  
 <div style="text-align:center; margin:20px 0;">
-  <img src="./assets/presentations/analytics-team-2025.jpeg" width="500">
+  <img src="./assets/presentations/analytics-team-2025.jpeg" width="80%" />
   <p><em>Recognized for analytics contributions during 2025.</em></p>
 </div>
  
@@ -123,7 +123,7 @@ I delivered **two back‑to‑back presentations** to groups of **50+ BSO team m
 I completed the **Train‑the‑Trainer** program, delivering a 30‑minute workflow‑improvement presentation that was shared across leadership.
  
 <div style="text-align:center; margin:20px 0;">
-  <img src="./assets/presentations/train-the-trainer.jpeg" width="500">
+  <img src="./assets/presentations/train-the-trainer.jpeg" width="80%" />
   <p><em>Train‑the‑Trainer certification presentation (2025).</em></p>
 </div>
  
