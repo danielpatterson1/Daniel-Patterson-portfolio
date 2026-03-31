@@ -1,4 +1,9 @@
-🧾 **Work Wins & Case Studies** — Daniel Patterson
+
+Patterson, Daniel
+11:03 PM (0 minutes ago)
+to me
+
+🧾 **Work Wins & Case Studies — Daniel Patterson**
  
 ---
  
@@ -87,45 +92,25 @@ Identify duplicate payments, classify root causes, quantify exposure, and guide 
 ## 🎤 **Presentation Recognition – Duplicate Payment Review (2025)**
  
 I was selected to present the Duplicate Payment Review findings to the entire BSO organization (**100+ attendees**). 
-The session covered financial exposure, root‑cause analysis, dashboards, and the process updates that drove a **~60% reduction** in duplicates.
+The session covered financial exposure, root‑cause analysis, dashboards, and the process improvements that helped drive a **~60% reduction** in duplicates.
  
-<div style="text-align:center; margin:20px 0;">
-  <img src="./assets/presentations/duplicate-review-presenting.jpeg" width="80%" />
-  <p><em>Presenting the Duplicate Payment Review to 100+ BSO team members (2025).</em></p>
-</div>
- 
-This work was later featured in the **company‑wide BSO ONE Episode 4 (February 2026)**, highlighting analyst contributions:
- 
-<div style="text-align:center; margin:20px 0;">
-  <img src="./assets/presentations/bso-one-collage.jpeg" width="80%" />
-  <p><em>Featured in BSO ONE Episode 4 (2026) for analytics impact.</em></p>
-</div>
+This work was later featured in a **company‑wide BSO ONE Episode (2026)** highlighting analyst contributions.
  
 ---
  
 ## 📣 **Speaking & Presentation Highlights (2025)**
  
-I delivered **two back‑to‑back presentations** to groups of **50+ BSO team members**, covering analytical findings, financial exposure, and operational workflow recommendations.
+In 2025, I delivered **two back‑to‑back presentations** to groups of **50+ BSO team members**, covering analytical findings, operational exposure, and workflow recommendations.
  
 - ✅ Led live walkthroughs of dashboards 
 - ✅ Answered questions from managers and senior staff 
 - ✅ Recognized for clarity, composure, and communication strength 
  
-<div style="text-align:center; margin:20px 0;">
-  <img src="./assets/presentations/analytics-team-2025.jpeg" width="80%" />
-  <p><em>Recognized for analytics contributions during 2025.</em></p>
-</div>
- 
 ---
  
 ## 🏅 **Training & Certification**
  
-I completed the **Train‑the‑Trainer** program, delivering a 30‑minute workflow‑improvement presentation that was shared across leadership.
- 
-<div style="text-align:center; margin:20px 0;">
-  <img src="./assets/presentations/train-the-trainer.jpeg" width="80%" />
-  <p><em>Train‑the‑Trainer certification presentation (2025).</em></p>
-</div>
+Completed the **Train‑the‑Trainer** program, delivering a 30‑minute workflow‑improvement presentation that was shared across leadership and the broader BSO team.
  
 ---
  
@@ -167,9 +152,9 @@ Analyze Medicaid AR to identify balance concentration, plan‑level delays, and 
  
 ✅ **Impact**
  
-- Revealed high‑delay plan codes for targeted follow‑up 
-- Provided actionable segmentation for operations 
-- Built with **auto‑refresh capability** 
+- Targeted insights for follow‑up 
+- Clear segmentation to guide operations 
+- Auto‑refresh capability 
 - Expanded visibility into plan‑level payment behavior 
  
 ---
@@ -229,4 +214,4 @@ Analyze Medicaid AR to identify balance concentration, plan‑level delays, and 
 - Delivered enterprise CB operational report 
 - Built automated pipelines reducing refresh time and error risk 
 - Scaled frameworks across CB & Medicaid 
-- Recognized for clarity, design standards, and operational value
+- Recognized for clarity, design standards, and operational value 
