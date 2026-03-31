@@ -8,8 +8,8 @@ Welcome to my analytics portfolio. This website highlights my public data projec
 ## 🔗 Navigation
 **Use the links below to explore my work:**
  
-- 🚗 **Tesla Fatal Crash Weather Analysis (HTML Report)** 
-  👉 [View Tesla Report](Tesla Fatal Crash Involvement Analysis — Geographic, Weather & Risk Patterns (FARS 2023).html)
+- 🚗 **Tesla Fatal Crash Weather Analysis (HTML Report)**  
+  👉 [View Tesla Report](./Tesla%20Fatal%20Crash%20Involvement%20Analysis%20—%20Geographic,%20Weather%20&%20Risk%20Patterns%20(FARS%202023).html)
  
 - 🧾 **Work Wins & Case Studies** 
   👉 [View Work Wins](./work-wins)
