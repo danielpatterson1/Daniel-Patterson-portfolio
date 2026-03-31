@@ -12,10 +12,10 @@ Welcome to my analytics portfolio. This website highlights my public data projec
   👉 [View Tesla Report](./tesla-report.html)
  
 - 🧾 **Work Wins & Case Studies** 
-  👉 [View Work Wins](./work-wins)
+  👉 [View Work Wins](./Work-wins.md)
  
 - 👋 **About Me** 
-  👉 [View About Page](./about)
+  👉 [View About Page](./About.md)
  
 ---
  
@@ -42,12 +42,12 @@ A detailed, sanitized summary of my major contributions in analytics, including:
 - Medicaid AR dashboards 
 - Credit Balance operational reporting suite 
  
-👉 [View Work Wins](./work-wins)
+👉 [View Work Wins](./Work-wins.md)
  
 ### 👋 About Me 
 A quick introduction to my background, strengths, and technical stack. 
  
-👉 [View About Page](./about)
+👉 [View About Page](./About.md)
  
 ---
  
