@@ -105,7 +105,7 @@ This work was later featured in the **company‑wide BSO ONE Episode 4 (February
  
 ## 📣 **Speaking & Presentation Highlights (2025)**
  
-I delivered **two back‑to‑back presentations** to groups of **50+ BSO team members**, covering analytical findings, financial exposure, and operational workflow recommendations. 
+I delivered **two back‑to‑back presentations** to groups of **50+ BSO team members**, covering analytical findings, financial exposure, and operational workflow recommendations.
  
 - ✅ Led live walkthroughs of dashboards 
 - ✅ Answered questions from managers and senior staff 
