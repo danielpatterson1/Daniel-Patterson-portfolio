@@ -364,7 +364,7 @@ Analyze Medicaid AR to identify balance concentration, plan‑level delays, and 
 
 - Delivered an enterprise Credit Balance operational report adopted across leadership.
 
-- automated reporting pipelines that replaced manual workflows with a **one‑click refresh**, reducing error risk and increasing consistency.
+- Automated reporting pipelines that replaced manual workflows with a **one‑click refresh**, reducing error risk and increasing consistency.
 
 - Applied scalable reporting frameworks across Medicaid AR and CB suites, improving visibility into financial exposure and payment behavior.
 
