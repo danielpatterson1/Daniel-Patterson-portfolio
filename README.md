@@ -21,7 +21,6 @@ Welcome to my analytics portfolio. This website highlights my public data projec
  
 ## ⭐ Featured Project
 ### **Tesla Fatal Crash Weather Analysis (FARS 2023)**
- 
 A complete analytical investigation into whether Tesla’s camera‑only perception system behaves differently in adverse weather conditions. 
 Includes: 
 ✅ KPI dashboard 
@@ -36,16 +35,18 @@ Includes:
 ## 📘 What You'll Find on This Site
  
 ### 🧾 Work Wins & Case Studies
-A detailed, sanitized summary of my major contributions in analytics, including:
+A detailed, sanitized summary of my major contributions in analytics, including: 
 - $3.62M duplicate payment identification 
 - 60% duplicate reduction 
 - Automated one‑click reporting pipelines 
 - Medicaid AR dashboards 
 - Credit Balance operational reporting suite 
+ 
 👉 [View Work Wins](./work-wins)
  
-### 👋 About Me
+### 👋 About Me 
 A quick introduction to my background, strengths, and technical stack. 
+ 
 👉 [View About Page](./about)
  
 ---
@@ -53,9 +54,10 @@ A quick introduction to my background, strengths, and technical stack.
 ## 📬 Contact Me
  
 **LinkedIn:** 
-[https://www.linkedin.com/in/daniel-patterson-b03a5718b/](https://www.linkedin.com/in/daniel-patterson-b03a5718b/)
+https://www.linkedin.com/in/daniel-patterson-b03a5718b/
  
 **Email:** 
-[dpatterson6575@gmail.com](mailto:dpatterson6575@gmail.com)
+dpatterson6575@gmail.com
  
 Thanks for visiting my portfolio!
+
