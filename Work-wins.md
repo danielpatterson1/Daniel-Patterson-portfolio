@@ -1,8 +1,3 @@
-
-Patterson, Daniel
-11:03 PM (0 minutes ago)
-to me
-
 🧾 **Work Wins & Case Studies — Daniel Patterson**
  
 ---
@@ -26,11 +21,11 @@ Key contributions include:
  
 These deliverables demonstrate:
  
-- ✅ measurable financial impact 
-- ✅ scalable automation 
-- ✅ cross‑functional collaboration 
-- ✅ strong data storytelling 
-- ✅ leadership‑recognized reporting design 
+- measurable financial impact 
+- scalable automation 
+- cross‑functional collaboration 
+- strong data storytelling 
+- leadership‑recognized reporting design 
  
 ---
  
@@ -102,9 +97,9 @@ This work was later featured in a **company‑wide BSO ONE Episode (2026)** high
  
 In 2025, I delivered **two back‑to‑back presentations** to groups of **50+ BSO team members**, covering analytical findings, operational exposure, and workflow recommendations.
  
-- ✅ Led live walkthroughs of dashboards 
-- ✅ Answered questions from managers and senior staff 
-- ✅ Recognized for clarity, composure, and communication strength 
+- Led live walkthroughs of dashboards 
+- Answered questions from managers and senior staff 
+- Recognized for clarity, composure, and communication strength 
  
 ---
  
@@ -163,12 +158,12 @@ Analyze Medicaid AR to identify balance concentration, plan‑level delays, and 
  
 ---
  
-- ✅ Praised by Directors & Assistant Directors 
-- ✅ Reporting format adopted across BSO 
-- ✅ Recognized for standout visuals & clarity 
-- ✅ Invited to present findings to leadership groups 
-- ✅ Commended publicly for graph design 
-- ✅ Train‑the‑Trainer presentation praised 
+- Praised by Directors & Assistant Directors 
+- Reporting format adopted across BSO 
+- Recognized for standout visuals & clarity 
+- Invited to present findings to leadership groups 
+- Commended publicly for graph design 
+- Train‑the‑Trainer presentation praised 
  
 ---
  
