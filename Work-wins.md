@@ -1,5 +1,5 @@
-🧾 **Work Wins & Case Studies — Daniel Patterson**
- 
+# 🧾 **Work Wins & Case Studies — Daniel Patterson**
+
 ---
  
 Analytics • Automation • Operational Reporting • Data Storytelling 
@@ -7,7 +7,7 @@ Updated: March 2026
  
 ---
  
-⭐ **Executive Summary**
+### ⭐ **Executive Summary**
  
 ---
  
@@ -29,7 +29,7 @@ These deliverables demonstrate:
  
 ---
  
-🚀 **Flagship Project — 2025 Credit Balance Operational Report**
+### 🚀 **Flagship Project — 2025 Credit Balance Operational Report**
  
 ---
  
@@ -54,7 +54,7 @@ Deliver a clear operational view of Credit Balance activity with monthly/weekly 
  
 ---
  
-💰 **Duplicate Payment Review — $3.62M Identified**
+### 💰 **Duplicate Payment Review — $3.62M Identified**
  
 ---
  
@@ -103,13 +103,13 @@ In 2025, I delivered **two back‑to‑back presentations** to groups of **50+ B
  
 ---
  
-## 🏅 **Training & Certification**
+### 🏅 **Training & Certification**
  
 Completed the **Train‑the‑Trainer** program, delivering a 30‑minute workflow‑improvement presentation that was shared across leadership and the broader BSO team.
  
 ---
  
-⚙️ **Automated CB Balance Reporting Suite**
+### ⚙️ **Automated CB Balance Reporting Suite**
  
 ---
  
@@ -131,7 +131,7 @@ A fully automated R/HTML reporting pipeline that consolidates all CB operational
  
 ---
  
-🏥 **Medicaid AR HTML Report**
+### 🏥 **Medicaid AR HTML Report**
  
 ---
  
@@ -154,7 +154,7 @@ Analyze Medicaid AR to identify balance concentration, plan‑level delays, and 
  
 ---
  
-🏆 **Leadership Recognition**
+### 🏆 **Leadership Recognition**
  
 ---
  
@@ -167,7 +167,7 @@ Analyze Medicaid AR to identify balance concentration, plan‑level delays, and 
  
 ---
  
-📅 **Weekly Wins (Selected)**
+### 📅 **Weekly Wins (Selected)**
  
 ---
  
@@ -177,7 +177,7 @@ Analyze Medicaid AR to identify balance concentration, plan‑level delays, and 
  
 ---
  
-🧠 **Core Strengths Demonstrated**
+### 🧠 **Core Strengths Demonstrated**
  
 ---
  
@@ -190,7 +190,7 @@ Analyze Medicaid AR to identify balance concentration, plan‑level delays, and 
  
 ---
  
-🔭 **Roadmap (2026)**
+### 🔭 **Roadmap (2026)**
  
 ---
  
@@ -201,7 +201,7 @@ Analyze Medicaid AR to identify balance concentration, plan‑level delays, and 
  
 ---
  
-✅ **Impact Summary**
+### ✅ **Impact Summary**
  
 ---
  
