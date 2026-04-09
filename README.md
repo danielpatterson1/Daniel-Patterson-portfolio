@@ -1,7 +1,11 @@
 # Daniel Patterson — Analytics Portfolio
-### Business Process Analyst • Reporting Automation • Data Storytelling
- 
-Welcome to my analytics portfolio. This website highlights my public data projects and professional case studies, including automated reporting pipelines, operational dashboards, and financial analytics work.
+### Data Analyst | Automation | SQL • R • Analytics
+
+[Download Resume](Daniel_Patterson_Resume_4-2026.pdf) • 
+[LinkedIn](https://www.linkedin.com/in/daniel-patterson-b03a5718b) • 
+[GitHub](https://github.com/danielpatterson1)
+
+Welcome to my analytics portfolio. This site showcases my work in data analytics, automation, and business intelligence, including automated reporting pipelines, operational dashboards, and financial analysis projects.
  
 ---
  
@@ -9,13 +13,13 @@ Welcome to my analytics portfolio. This website highlights my public data projec
 **Use the links below to explore my work:**
  
 - 🚗 **Tesla Fatal Crash Weather Analysis (HTML Report)** 
-  👉 [View Tesla Report](./tesla-report.html)
+   [View Tesla Report](./tesla-report.html)
  
 - 🧾 **Work Wins & Case Studies** 
-  👉 [View Work Wins](./Work-wins.md)
+   [View Work Wins](./Work-wins.md)
  
 - 👋 **About Me** 
-  👉 [View About Page](./About.md)
+   [View About Page](./About.md)
  
 ---
  
@@ -28,7 +32,7 @@ Includes:
 - Odds ratios & statistical testing 
 - Visuals and narrative insights 
  
-👉 **Open the report:** [tesla-report.html](./tesla-report.html)
+ **Open the report:** [tesla-report.html](./tesla-report.html)
  
 ---
  
@@ -42,12 +46,12 @@ A detailed, sanitized summary of my major contributions in analytics, including:
 - Medicaid AR dashboards 
 - Credit Balance operational reporting suite 
  
-👉 [View Work Wins](./Work-wins.md)
+ [View Work Wins](./Work-wins.md)
  
 ### 👋 About Me 
 A quick introduction to my background, strengths, and technical stack. 
  
-👉 [View About Page](./About.md)
+ [View About Page](./About.md)
  
 ---
  
