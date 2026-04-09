@@ -1,4 +1,4 @@
-# About Me — Daniel Patterson
+# 👋 About Me — Daniel Patterson
 
 Business Process Analyst | Analytics Automation | Operational Reporting
 
