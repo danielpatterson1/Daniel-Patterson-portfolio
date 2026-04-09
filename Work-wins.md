@@ -14,10 +14,10 @@ Updated: March 2026
 From 2025–2026, I delivered analytics, automation, and reporting improvements that strengthened financial accuracy, increased speed‑to‑insight, and enhanced operational control across **Credit Balances (CB)** and **Medicaid AR**. 
 Key contributions include:
  
-- 📊 **2025 Credit Balance Operational Report** — enterprise dashboard redesign covering inventory, dollars, team throughput, compliance, and timing. 
-- 💰 **Duplicate Payment Review** — surfaced **$3.62M** in duplicates and supported **~60% MoM reduction** through process changes. 
-- ⚙️ **Automated CB Balance Suite** — fully automated HTML reporting (“one‑click Render”), reducing refresh time and error risk. 
-- 🏥 **Medicaid AR HTML Report** — identified high‑impact plan codes, aging risks, and payment timing delays.
+- **2025 Credit Balance Operational Report** — enterprise dashboard redesign covering inventory, dollars, team throughput, compliance, and timing. 
+- **Duplicate Payment Review** — surfaced **$3.62M** in duplicates and supported **~60% MoM reduction** through process changes. 
+- **Automated CB Balance Suite** — fully automated HTML reporting (“one‑click Render”), reducing refresh time and error risk. 
+- **Medicaid AR HTML Report** — identified high‑impact plan codes, aging risks, and payment timing delays.
  
 These deliverables demonstrate:
  
@@ -33,10 +33,10 @@ These deliverables demonstrate:
  
 ---
  
-🎯 **Purpose** 
+**Purpose** 
 Deliver a clear operational view of Credit Balance activity with monthly/weekly trends, decentralized vs centralized comparisons, team throughput, payer drivers, and compliance timing.
  
-📌 **Highlights**
+**Highlights**
  
 - Daily‑average inventory & dollars for trend stability 
 - Team drilldowns (accounts, dollars, payer mix, throughput) 
@@ -45,7 +45,7 @@ Deliver a clear operational view of Credit Balance activity with monthly/weekly 
 - Weekly lens revealing inflow, timing, outliers 
 - Responsible party insights showing payer‑driven shifts 
  
-⭐ **Impact**
+**Impact**
  
 - Became the **department‑wide standard layout** 
 - Commended for clarity, visual design, and legibility 
@@ -58,24 +58,24 @@ Deliver a clear operational view of Credit Balance activity with monthly/weekly 
  
 ---
  
-🎯 **Objective** 
+**Objective** 
 Identify duplicate payments, classify root causes, quantify exposure, and guide remediation.
  
-🔍 **Findings:** 
+**Findings:** 
 **$3.62M** total duplicates, including:
  
 - 60% delayed insurance postings 
 - 28% automatic posting errors 
 - 12% cash posting errors 
  
-✅ **Corrective Actions**
+**Corrective Actions**
  
 - Improved EDI response tracking 
 - Posting delay rule updated (3 days → 2 weeks) 
 - Enhanced duplicate‑detection logic 
 - Strengthened large‑batch QA checks 
  
-📉 **Impact**
+**Impact**
  
 - **~60.5% reduction** in duplicate payments 
 - Clear downward trend with remediation 
@@ -113,7 +113,7 @@ Completed the **Train‑the‑Trainer** program, delivering a 30‑minute workfl
  
 ---
  
-🚀 **What I Built** 
+**What I Built** 
 A fully automated R/HTML reporting pipeline that consolidates all CB operational metrics:
  
 - Balance tiers (<1K, 1–5K, 5–10K, >10K) 
@@ -122,7 +122,7 @@ A fully automated R/HTML reporting pipeline that consolidates all CB operational
 - Team workflows (accounts, compliance, aging, SNF) 
 - Aging buckets & operational status breakdowns 
  
-✅ **Impact**
+**Impact**
  
 - One‑click automated refresh 
 - Lower error risk + faster cadence 
@@ -135,17 +135,17 @@ A fully automated R/HTML reporting pipeline that consolidates all CB operational
  
 ---
  
-🎯 **Purpose** 
+**Purpose** 
 Analyze Medicaid AR to identify balance concentration, plan‑level delays, and operational risk.
  
-📌 **Key Insights**
+**Key Insights**
  
 - Balances concentrated in **TO** and **TT** 
 - High‑impact plan codes: **MDAR, MDMA, UHCD** 
 - Long discharge‑to‑payment delays (400–580+ days) 
 - Payments concentrated in **H103** series 
  
-✅ **Impact**
+**Impact**
  
 - Targeted insights for follow‑up 
 - Clear segmentation to guide operations 
@@ -181,12 +181,12 @@ Analyze Medicaid AR to identify balance concentration, plan‑level delays, and 
  
 ---
  
-- 🔧 Automation Mindset — one‑click reporting pipelines 
-- 📊 Data Storytelling — KPIs, summaries, intuitive visuals 
-- 📥 Ownership — initiated analyses proactively 
-- 🤝 Collaboration — cross‑functional teamwork 
-- 📈 Impact — improved cash accuracy & compliance visibility 
-- 🧩 Continuous Improvement — rapid growth in R & dashboard engineering 
+- Automation Mindset — one‑click reporting pipelines 
+- Data Storytelling — KPIs, summaries, intuitive visuals 
+- Ownership — initiated analyses proactively 
+- Collaboration — cross‑functional teamwork 
+- Impact — improved cash accuracy & compliance visibility 
+- Continuous Improvement — rapid growth in R & dashboard engineering 
  
 ---
  
