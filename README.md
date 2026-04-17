@@ -26,7 +26,18 @@ Welcome to my analytics portfolio. This site showcases my work in data analytics
  
 ---
  
-## Featured Project
+## Featured Projects
+
+### **U.S. Healthcare Costs, Payments, and Operational Efficiency**
+A comprehensive data analysis of national healthcare spending, payment flows, and system efficiency across the U.S., using CMS NHE datasets. 
+Includes:
+- KPI dashboard
+- Executive summary
+- Spending trends & payer breakdowns
+- Operational efficiency insights
+
+**Open the report:** [View U.S. Healthcare Report](U.S._Healthcare_Dashboard.html)
+
 ### **Tesla Fatal Crash Weather Analysis (FARS 2023)**
 A complete analytical investigation into whether Tesla’s camera‑only perception system behaves differently in adverse weather conditions. 
 Includes: 
