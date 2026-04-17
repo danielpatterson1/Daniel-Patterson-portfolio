@@ -49,6 +49,7 @@ Includes:
 - Visuals and narrative insights 
  
  **Open the report:** [tesla-report.html](./tesla-report.html)
+ 
 ---
  
 ##  What You'll Find on This Site
