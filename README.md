@@ -37,6 +37,7 @@ Includes:
 - Operational efficiency insights
 
 **Open the report:** [View U.S. Healthcare Report](U.S._Healthcare_Dashboard.html)
+**View the Code:** [View U.S. Healthcare Report Code](U.S._Healthcare_Report_RMD.Rmd)
 
 ### **Tesla Fatal Crash Weather Analysis (FARS 2023)**
 A complete analytical investigation into whether Tesla’s camera‑only perception system behaves differently in adverse weather conditions. 
@@ -47,7 +48,6 @@ Includes:
 - Visuals and narrative insights 
  
  **Open the report:** [tesla-report.html](./tesla-report.html)
- 
 ---
  
 ##  What You'll Find on This Site
