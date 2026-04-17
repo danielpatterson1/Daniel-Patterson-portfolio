@@ -37,6 +37,7 @@ Includes:
 - Operational efficiency insights
 
 **Open the report:** [View U.S. Healthcare Report](U.S._Healthcare_Dashboard.html)
+
 **View the Code:** [View U.S. Healthcare Report Code](U.S._Healthcare_Report_RMD.Rmd)
 
 ### **Tesla Fatal Crash Weather Analysis (FARS 2023)**
