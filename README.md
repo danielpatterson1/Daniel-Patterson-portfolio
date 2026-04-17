@@ -12,7 +12,7 @@ Welcome to my analytics portfolio. This site showcases my work in data analytics
 ## Navigation
 **Use the links below to explore my work:**
 
-- **U.S. Healthcare Cost, Payments and Efficiencies (Dashboard Report)**
+- 🏥 **U.S. Healthcare Cost, Payments and Efficiencies (Dashboard Report)**
  [View U.S. Healthcare Report](U.S._Healthcare_Dashboard.html)
  
 - 🚗 **Tesla Fatal Crash Weather Analysis (HTML Report)** 
