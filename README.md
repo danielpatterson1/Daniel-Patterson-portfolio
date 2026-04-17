@@ -32,8 +32,7 @@ Welcome to my analytics portfolio. This site showcases my work in data analytics
 A comprehensive data analysis of national healthcare spending, payment flows, and system efficiency across the U.S., using CMS NHE datasets. 
 
 Includes:
-- KPI dashboard
-- Executive summary
+- Summary page with key insights
 - Spending trends & payer breakdowns
 - Operational efficiency insights
 
