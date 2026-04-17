@@ -36,7 +36,9 @@ Includes:
 - Spending trends & payer breakdowns
 - Operational efficiency insights
 
-**Open the report:** [View U.S. Healthcare Report](U.S._Healthcare_Dashboard.html)
+**Open the Dashboard:** [View U.S. Healthcare Report](U.S._Healthcare_Dashboard.html)
+
+**Open the Executive Summary:** [View Executive Summary](U.S._Healthcare_README.md)
 
 **View the Code:** [View U.S. Healthcare Report Code](U.S._Healthcare_Report_RMD.Rmd)
 
