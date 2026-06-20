@@ -11,9 +11,11 @@ Welcome to my analytics portfolio. This site showcases my work in data analytics
  
 ## Navigation
 **Use the links below to explore my work:**
-
 - 🏥 **U.S. Healthcare Cost, Payments and Efficiencies (Dashboard Report)**
  [View U.S. Healthcare Report](U.S._Healthcare_Dashboard.html)
+
+- 💵 **Medicare Payment Variability & Revenue Leakage Detection Model (Dashboard Report)**
+ [View Revenue Leakage Report](Healthcare_Revenue_Leakage_Recovery_Model.html)
  
 - 🚗 **Tesla Fatal Crash Weather Analysis (HTML Report)** 
    [View Tesla Report](./tesla-report.html)
@@ -30,21 +32,29 @@ Welcome to my analytics portfolio. This site showcases my work in data analytics
 
 ### **U.S. Healthcare Costs, Payments, and Operational Efficiency**
 A comprehensive data analysis of national healthcare spending, payment flows, and system efficiency across the U.S., using CMS NHE datasets. 
-
 Includes:
 - Summary page with key insights
 - Spending trends & payer breakdowns
 - Operational efficiency insights
 
 **Open the Dashboard:** [View U.S. Healthcare Report](U.S._Healthcare_Dashboard.html)
-
 **Open the Executive Summary:** [View Executive Summary](U.S._Healthcare_README.md)
-
 **View the Code:** [View U.S. Healthcare Report Code](U.S._Healthcare_Report_RMD.Rmd)
 
-### **Tesla Fatal Crash Weather Analysis (FARS 2023)**
-A complete analytical investigation into whether Tesla’s camera‑only perception system behaves differently in adverse weather conditions. 
+### **Medicare Payment Variability & Revenue Leakage Detection Model**
+A claims-based analysis of Medicare payment variability across 2,845 providers, identifying where charges and payments decouple and quantifying recoverable revenue opportunity by DRG.
+Includes:
+- Executive summary with key financial exposure metrics
+- DRG-level distribution & opportunity segmentation
+- Hospital-level impact and top recovery targets
+- Recommended actions and business impact takeaways
 
+**Key figures:** $8.2B in overpayment exposure identified, with $7B in recoverable revenue surfaced — concentrated heavily among the top 10 providers.
+
+**Open the Dashboard:** [View Revenue Leakage Report](Healthcare_Revenue_Leakage_Recovery_Model.html)
+
+### **Tesla Fatal Crash Weather Analysis (FARS 2023)**
+A complete analytical investigation into whether Tesla's camera‑only perception system behaves differently in adverse weather conditions. 
 Includes: 
 - KPI dashboard 
 - Executive summary 
@@ -77,7 +87,6 @@ A quick introduction to my background, strengths, and technical stack.
 ## 📬 Contact Me
 **LinkedIn:** 
 [https://www.linkedin.com/in/daniel-patterson-b03a5718b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhucT2rP%2BT9q9Mqa0T4LFpw%3D%3D](https://www.linkedin.com/in/daniel-patterson-b03a5718b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhucT2rP%2BT9q9Mqa0T4LFpw%3D%3D) 
-
 **Email:** [dpatterson6575@gmail.com](dpatterson6575@gmail.com)
  
 Thanks for visiting my portfolio!
