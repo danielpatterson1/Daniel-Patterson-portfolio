@@ -95,14 +95,14 @@ Independently identified a recurring pattern of stalled, unresolved balances sit
 
 - Spotted the trend through hands-on operational work, not a top-down directive
 - Designed a repeatable review process to flag and resolve aged worklist balances
-- *[Add detail: account criteria used, any tools/automation built to support the process]*
+- Built a documented process flow and automated reporting solution, refining filters and payer-classification logic through several rounds of stakeholder feedback
 
 **Impact**
 
 - Recovered/cleared hundreds of thousands of dollars in outstanding balances from the worklist
-- *[Add detail: number of accounts resolved, % reduction in aged worklist, timeframe]*
-- Adopted as an ongoing operational practice
-- *[Add detail: any specific leadership recognition — who, what setting]*
+- Moved to daily automated distribution with zero calculation errors identified during team review
+- Adopted as an ongoing, sustained operational process
+- Recognized by department leadership for accuracy and efficiency gains
 
 ---
 
@@ -110,11 +110,11 @@ Independently identified a recurring pattern of stalled, unresolved balances sit
 
 Beyond the flagship projects above, I've built and presented several other operational reports reviewed directly by senior leadership in high-stakes settings.
 
-- *[Add: report name/topic, what it showed, and the impact or decision it informed]*
-- *[Add: report name/topic, what it showed, and the impact or decision it informed]*
-- *[Add: report name/topic, what it showed, and the impact or decision it informed]*
-
-*Tell me about 2–3 of the most significant ones and I'll build these out into full case studies matching the format above.*
+- **Medicaid Performance Dashboard** — Built and automated a recurring Medicaid operations dashboard consolidating key performance metrics into a single leadership-facing view, complete with a supporting user guide. Refined across multiple leadership review cycles based on direct executive feedback.
+- **Vendor Account Wind-Down Reporting** — Partnered cross-functionally to build a dashboard tracking the wind-down of a major vendor account relationship, giving leadership clear visibility into balance movement over time. Presented directly to the executive team with strong positive feedback.
+- **Variance & Underperformer Analysis** — Collaborated cross-functionally on a leadership-facing summary covering variance-to-goal, collectible balances, and root-cause analysis for underperforming segments — the executive summary framework was specifically praised.
+- **Payer-Specific Due Diligence Extension** — Extended the Due Diligence reporting framework to a major national payer's secondary-account population; identified and resolved a data-accuracy issue mid-project before presenting final findings to stakeholders.
+- **Automated Enrollment-Tracking Report** — Built and automated a recurring report supporting timely follow-up on a specific enrollment-transition process, replacing manual tracking with a scheduled, validated report.
 
 ---
 
