@@ -1,7 +1,7 @@
 # Daniel Patterson — Analytics Portfolio
 ### Data Analyst | Automation | SQL • R • Analytics
 
-[Download Resume](Daniel_Patterson_Resume_4-2026.pdf) • 
+[Download Resume](Daniel_Patterson_Resume_062026.pdf) • 
 [LinkedIn](https://www.linkedin.com/in/daniel-patterson-b03a5718b) • 
 [GitHub](https://github.com/danielpatterson1)
 
