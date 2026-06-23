@@ -1,11 +1,11 @@
-# 🧾 Work Wins & Case Studies — Daniel Patterson
+# Work Wins & Case Studies — Daniel Patterson
 
 Analytics • Automation • Operational Reporting • Data Storytelling
 Updated: June 2026
 
 ---
 
-### ⭐ Executive Summary
+### Executive Summary
 
 From 2025–2026, I delivered analytics, automation, and reporting improvements that strengthened financial accuracy, increased speed-to-insight, and enhanced operational control across credit balance and Medicaid AR functions.
 
@@ -27,7 +27,7 @@ These deliverables demonstrate:
 
 ---
 
-### 🚀 Flagship Project — 2025 Credit Balance Operational Report
+### Flagship Project — 2025 Credit Balance Operational Report
 
 **Purpose**
 Deliver a clear operational view of credit balance activity with monthly/weekly trends, decentralized vs. centralized comparisons, team throughput, payer drivers, and compliance timing.
@@ -50,7 +50,7 @@ Deliver a clear operational view of credit balance activity with monthly/weekly 
 
 ---
 
-### 💰 Duplicate Payment Review — $3.62M Identified
+### Duplicate Payment Review — $3.62M Identified
 
 **Objective**
 Identify duplicate payments, classify root causes, quantify exposure, and guide remediation.
@@ -78,7 +78,7 @@ $3.62M total duplicates identified, including:
 
 ---
 
-### 🎤 Presentation Recognition — Duplicate Payment Review (2025)
+### Presentation Recognition — Duplicate Payment Review (2025)
 
 I was selected to present the Duplicate Payment Review findings to the broader department (100+ attendees). The session covered financial exposure, root-cause analysis, dashboards, and the process improvements that helped drive a ~60% reduction in duplicates.
 
@@ -86,7 +86,7 @@ This work was later featured in an internal company-wide recognition feature hig
 
 ---
 
-### 🧹 Due Diligence Initiative — Hundreds of Thousands Recovered
+### Due Diligence Initiative — Hundreds of Thousands Recovered
 
 **Objective**
 Independently identified a recurring pattern of stalled, unresolved balances sitting on the active worklist and built a due diligence review process to systematically work through them — self-initiated, outside of any assigned project.
@@ -106,7 +106,7 @@ Independently identified a recurring pattern of stalled, unresolved balances sit
 
 ---
 
-### 📊 Additional Reporting & Leadership Briefings
+### Additional Reporting & Leadership Briefings
 
 Beyond the flagship projects above, I've built and presented several other operational reports reviewed directly by senior leadership in high-stakes settings.
 
@@ -118,7 +118,7 @@ Beyond the flagship projects above, I've built and presented several other opera
 
 ---
 
-### 📣 Speaking & Presentation Highlights (2025)
+### Speaking & Presentation Highlights (2025)
 
 In 2025, I delivered two back-to-back presentations to groups of 50+ team members, covering analytical findings, operational exposure, and workflow recommendations.
 
@@ -128,13 +128,13 @@ In 2025, I delivered two back-to-back presentations to groups of 50+ team member
 
 ---
 
-### 🏅 Training & Certification
+### Training & Certification
 
 Completed a Train-the-Trainer program, delivering a 30-minute workflow-improvement presentation that was shared across leadership and the broader team.
 
 ---
 
-### ⚙️ Automated Credit Balance Reporting Suite
+### Automated Credit Balance Reporting Suite
 
 **What I Built**
 A fully automated R/HTML reporting pipeline that consolidates operational credit-balance metrics:
@@ -154,7 +154,7 @@ A fully automated R/HTML reporting pipeline that consolidates operational credit
 
 ---
 
-### 🏥 Medicaid AR HTML Report
+### Medicaid AR HTML Report
 
 **Purpose**
 Analyze Medicaid AR to identify balance concentration, plan-level delays, and operational risk.
@@ -175,7 +175,7 @@ Analyze Medicaid AR to identify balance concentration, plan-level delays, and op
 
 ---
 
-### 🏆 Leadership Recognition
+### Leadership Recognition
 
 - Praised by department leadership
 - Reporting format adopted organization-wide
@@ -186,7 +186,7 @@ Analyze Medicaid AR to identify balance concentration, plan-level delays, and op
 
 ---
 
-### 🧠 Core Strengths Demonstrated
+### Core Strengths Demonstrated
 
 - **Automation Mindset** — one-click reporting pipelines
 - **Data Storytelling** — KPIs, summaries, intuitive visuals
@@ -197,7 +197,7 @@ Analyze Medicaid AR to identify balance concentration, plan-level delays, and op
 
 ---
 
-### 🔭 Roadmap (2026)
+### Roadmap (2026)
 
 - Medicaid dashboard general availability
 - Duplicate exception monitoring
@@ -206,7 +206,7 @@ Analyze Medicaid AR to identify balance concentration, plan-level delays, and op
 
 ---
 
-### ✅ Impact Summary
+### Impact Summary
 
 - Identified $3.62M in duplicate payments and supported a ~60% reduction
 - Led a self-initiated Due Diligence process that recovered hundreds of thousands from the worklist
