@@ -1,4 +1,4 @@
-# 🏥 U.S. Healthcare Costs, Payments, and Operational Efficiency  
+# U.S. Healthcare Costs, Payments, and Operational Efficiency  
 ### Interactive Analytics Dashboard | Executive README  
 
 ---
