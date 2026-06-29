@@ -1,17 +1,17 @@
-# Work Wins & Case Studies — Daniel Patterson
+# Work Wins & Case Studies
 
-Analytics • Automation • Operational Reporting • Data Storytelling
+Analytics • Automation • Operational Reporting • Data Storytelling  
 Updated: June 2026
 
 ---
 
-### Executive Summary
+## Executive Summary
 
-From 2025–2026, I delivered analytics, automation, and reporting improvements that strengthened financial accuracy, increased speed-to-insight, and enhanced operational control across credit balance and Medicaid AR functions.
+From 2025–2026, I delivered analytics, automation, and reporting improvements that strengthened financial accuracy, increased speed-to-insight, and enhanced operational control across credit balance and Medicaid AR functions within a healthcare revenue cycle environment.
 
 Key contributions include:
 
-- **2025 Credit Balance Operational Report** — enterprise dashboard redesign covering inventory, dollars, team throughput, compliance, and timing.
+- **Credit Balance Operational Report** — enterprise dashboard redesign covering inventory, dollars, team throughput, compliance, and timing.
 - **Duplicate Payment Review** — surfaced **$3.62M** in duplicates and supported a **~60% month-over-month reduction** through process changes.
 - **Due Diligence Initiative** — self-initiated review process that cleared hundreds of thousands of dollars in stalled balances from the active worklist.
 - **Automated Credit Balance Reporting Suite** — fully automated HTML reporting ("one-click render"), reducing refresh time and error risk.
@@ -27,9 +27,9 @@ These deliverables demonstrate:
 
 ---
 
-### Flagship Project — 2025 Credit Balance Operational Report
+## Flagship Project — Credit Balance Operational Report
 
-**Purpose**
+**Purpose**  
 Deliver a clear operational view of credit balance activity with monthly/weekly trends, decentralized vs. centralized comparisons, team throughput, payer drivers, and compliance timing.
 
 **Highlights**
@@ -45,17 +45,17 @@ Deliver a clear operational view of credit balance activity with monthly/weekly 
 
 - Became the department-wide standard layout
 - Commended for clarity, visual design, and legibility
-- Selected for presentation to directors
+- Selected for presentation to senior leadership
 - Introduced a new Executive Summary + KPI Box format now adopted across departmental reporting
 
 ---
 
-### Duplicate Payment Review — $3.62M Identified
+## Duplicate Payment Review — $3.62M Identified
 
-**Objective**
+**Objective**  
 Identify duplicate payments, classify root causes, quantify exposure, and guide remediation.
 
-**Findings**
+**Findings**  
 $3.62M total duplicates identified, including:
 
 - 60% delayed insurance postings
@@ -78,17 +78,17 @@ $3.62M total duplicates identified, including:
 
 ---
 
-### Presentation Recognition — Duplicate Payment Review (2025)
+## Presentation Recognition — Duplicate Payment Review
 
-I was selected to present the Duplicate Payment Review findings to the broader department (100+ attendees). The session covered financial exposure, root-cause analysis, dashboards, and the process improvements that helped drive a ~60% reduction in duplicates.
+Selected to present findings to a cross-functional audience of 100+ team members. The session covered financial exposure, root-cause analysis, dashboards, and the process improvements that drove a ~60% reduction in duplicates.
 
-This work was later featured in an internal company-wide recognition feature highlighting analyst contributions (2026).
+This work was later featured in an internal company-wide recognition program highlighting analyst contributions.
 
 ---
 
-### Due Diligence Initiative — Hundreds of Thousands Recovered
+## Due Diligence Initiative — Hundreds of Thousands Recovered
 
-**Objective**
+**Objective**  
 Independently identified a recurring pattern of stalled, unresolved balances sitting on the active worklist and built a due diligence review process to systematically work through them — self-initiated, outside of any assigned project.
 
 **What I Did**
@@ -106,9 +106,9 @@ Independently identified a recurring pattern of stalled, unresolved balances sit
 
 ---
 
-### Additional Reporting & Leadership Briefings
+## Additional Reporting & Leadership Briefings
 
-Beyond the flagship projects above, I've built and presented several other operational reports reviewed directly by senior leadership in high-stakes settings.
+Beyond the flagship projects above, I've built and presented several other operational reports reviewed directly by senior leadership.
 
 - **Medicaid Performance Dashboard** — Built and automated a recurring Medicaid operations dashboard consolidating key performance metrics into a single leadership-facing view, complete with a supporting user guide. Refined across multiple leadership review cycles based on direct executive feedback.
 - **Vendor Account Wind-Down Reporting** — Partnered cross-functionally to build a dashboard tracking the wind-down of a major vendor account relationship, giving leadership clear visibility into balance movement over time. Presented directly to the executive team with strong positive feedback.
@@ -118,7 +118,7 @@ Beyond the flagship projects above, I've built and presented several other opera
 
 ---
 
-### Speaking & Presentation Highlights (2025)
+## Speaking & Presentation Highlights
 
 In 2025, I delivered two back-to-back presentations to groups of 50+ team members, covering analytical findings, operational exposure, and workflow recommendations.
 
@@ -128,15 +128,15 @@ In 2025, I delivered two back-to-back presentations to groups of 50+ team member
 
 ---
 
-### Training & Certification
+## Training & Certification
 
-Completed a Train-the-Trainer program, delivering a 30-minute workflow-improvement presentation that was shared across leadership and the broader team.
+Completed a Train-the-Trainer program, delivering a 30-minute workflow-improvement presentation shared across leadership and the broader team.
 
 ---
 
-### Automated Credit Balance Reporting Suite
+## Automated Credit Balance Reporting Suite
 
-**What I Built**
+**What I Built**  
 A fully automated R/HTML reporting pipeline that consolidates operational credit-balance metrics:
 
 - Balance-tier breakdowns
@@ -154,9 +154,9 @@ A fully automated R/HTML reporting pipeline that consolidates operational credit
 
 ---
 
-### Medicaid AR HTML Report
+## Medicaid AR HTML Report
 
-**Purpose**
+**Purpose**  
 Analyze Medicaid AR to identify balance concentration, plan-level delays, and operational risk.
 
 **Key Insights**
@@ -175,9 +175,9 @@ Analyze Medicaid AR to identify balance concentration, plan-level delays, and op
 
 ---
 
-### Leadership Recognition
+## Leadership Recognition
 
-- Praised by department leadership
+- Praised by department leadership for reporting quality and design
 - Reporting format adopted organization-wide
 - Recognized for standout visuals and clarity
 - Invited to present findings to leadership groups
@@ -186,7 +186,7 @@ Analyze Medicaid AR to identify balance concentration, plan-level delays, and op
 
 ---
 
-### Core Strengths Demonstrated
+## Core Strengths Demonstrated
 
 - **Automation Mindset** — one-click reporting pipelines
 - **Data Storytelling** — KPIs, summaries, intuitive visuals
@@ -197,20 +197,11 @@ Analyze Medicaid AR to identify balance concentration, plan-level delays, and op
 
 ---
 
-### Roadmap (2026)
+## Impact Summary
 
-- Medicaid dashboard general availability
-- Duplicate exception monitoring
-- Team productivity deep dives
-- Reporting layout and color-standard playbooks
-
----
-
-### Impact Summary
-
-- Identified $3.62M in duplicate payments and supported a ~60% reduction
+- Identified **$3.62M** in duplicate payments and supported a **~60% reduction**
 - Led a self-initiated Due Diligence process that recovered hundreds of thousands from the worklist
-- Delivered an enterprise-level credit balance operational report
+- Delivered an enterprise-level credit balance operational report adopted as the department standard
 - Built automated pipelines reducing refresh time and error risk
 - Scaled reporting frameworks across multiple operational areas
 - Recognized for clarity, design standards, and operational value
