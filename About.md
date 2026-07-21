@@ -1,14 +1,11 @@
 # 👋 About Me — Daniel Patterson
-
-Business Process Analyst | Analytics Automation | Operational Reporting
+Business Process Analyst III | Analytics Automation | Operational Reporting
 
 I'm a Business Process Analyst specializing in **analytics, automation, and data storytelling**.
-
 My work focuses on building reporting systems that improve financial accuracy, enhance operational visibility, and accelerate decision‑making.
 
 I work heavily in:
-
-- **R** (dplyr, ggplot2, plotly)
+- **R** (dplyr, ggplot2, plotly) and **Python** for analysis and automation
 - **Quarto / R Markdown** for automated HTML reporting
 - **SQL** for data extraction and transformation
 - **HTML/CSS** for clean report presentation
@@ -19,26 +16,20 @@ I enjoy transforming manual processes into **scalable, automated pipelines**, de
 ---
 
 ## ⭐ What I'm Best At
-
 - **Automation Mindset**
- Turning recurring manual reporting into one‑click or fully automated pipelines.
-
+  Turning recurring manual reporting into one‑click or fully automated pipelines.
 - **Data Storytelling**
- Building visuals, summaries, and KPI structures that leaders actually understand and use.
-
+  Building visuals, summaries, and KPI structures that leaders actually understand and use.
 - **Operational Analytics**
- Credit Balances, Medicaid AR, financial exposure analysis, and cash‑flow insights.
-
+  Credit Balances, Medicaid AR, payment variability/revenue leakage, financial exposure analysis, and cash‑flow insights.
 - **Report & Dashboard Design**
- Clean, consistent HTML reporting frameworks with strong design standards.
-
+  Clean, consistent HTML reporting frameworks with strong design standards.
 - **Cross‑Functional Collaboration**
- Working with operations, analysts, leadership, and technical teams to deliver high‑value insights.
+  Working with operations, analysts, leadership, and technical teams to deliver high‑value insights.
 
 ---
 
 ## 🛠 Technical Skills
-
 **Languages & Tools:**
 - R • SQL • Python
 - ggplot2 • dplyr • tidyr • plotly
@@ -57,20 +48,25 @@ I enjoy transforming manual processes into **scalable, automated pipelines**, de
 ---
 
 ## 🚀 Recent Highlights
-
-- Built **one‑click automated reporting pipelines** adopted across leadership teams.
+- Promoted to **Business Process Analyst III**, a role shaped in part by the automation and analytics work below.
+- Built the **Medicare Payment Variability & Revenue Leakage Detection Model**, surfacing **$8.2B** in overpayment exposure across **2,845 providers**, with an estimated **$7B** recoverable.
+- Automated the **Due Diligence overpayment identification process**, projected to drive **~$1M** in write‑offs in its first month live.
 - Identified **$3.62M** in duplicate payments and supported a **~60% reduction** via process improvements.
 - Designed the **2025 Credit Balance Operational Report**, now used enterprise‑wide.
 - Delivered the **Medicaid AR HTML dashboard** for high‑risk plan analysis.
 - Introduced a new **Executive Summary + KPI layout** now standard in multiple departmental reports.
+- Presented a **cash posting document management solution** to assistant director and IT leadership.
+
+---
+
+## 🎓 Currently Learning
+- Pursuing an **M.S. in Analytics (OMSA)** at the **Georgia Institute of Technology**, starting August 2026.
 
 ---
 
 ## 📬 Contact Me
-
 **LinkedIn:**
 [https://www.linkedin.com/in/daniel-patterson-b03a5718b/](https://www.linkedin.com/in/daniel-patterson-b03a5718b/)
-
 **Email:** [dpatterson6575@gmail.com](mailto:dpatterson6575@gmail.com)
 
 Thanks for visiting my portfolio!
