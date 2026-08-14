@@ -13,18 +13,16 @@ Welcome to my analytics portfolio. This site is a walkthrough of the work I do i
 
 **Use the links below to explore my work:**
 
+- 💰 **Medicare Cash Reconciliation Dashboard (Dashboard Report)**
+  [View Cash Reconciliation Report](Medicare_Cash_Reconciliation.html)
 - 🏥 **U.S. Healthcare Cost, Payments and Efficiencies (Dashboard Report)**
   [View U.S. Healthcare Report](U.S._Healthcare_Dashboard.html)
-
 - 💵 **Medicare Payment Variability & Revenue Leakage Detection Model (Dashboard Report)**
   [View Revenue Leakage Report](Healthcare_Revenue_Leakage_Recovery_Model.html)
-
 - 🚗 **Tesla Fatal Crash Weather Analysis (HTML Report)**
   [View Tesla Report](./tesla-report.html)
-
 - 🧾 **Work Wins & Case Studies**
   [View Work Wins](./Work-wins.md)
-
 - 👋 **About Me**
   [View About Page](./About.md)
 
@@ -32,8 +30,20 @@ Welcome to my analytics portfolio. This site is a walkthrough of the work I do i
 
 ## Featured Projects
 
-### **U.S. Healthcare Costs, Payments, and Operational Efficiency**
+### **Medicare Cash Reconciliation Dashboard**
+An operational reconciliation platform matching Medicare deposit activity against AR payment-posting records across five previously incompatible data sources, built to give leadership real-time visibility into posting timeliness and exception risk.
 
+Includes:
+- Executive summary with match-rate and coverage metrics
+- Facility and fiscal-intermediary performance breakdowns
+- Posting-lag and aging trend analysis
+- Exception drill-down for unmatched deposits
+
+**Key figures:** $971M+ in deposits analyzed, 98.5% successfully traced to posting activity (99.5% of deposited cash), with $4.3M in actionable exceptions surfaced for review.
+
+**Open the Dashboard:** [View Cash Reconciliation Report](Medicare_Cash_Reconciliation.html)
+
+### **U.S. Healthcare Costs, Payments, and Operational Efficiency**
 A comprehensive analysis of national healthcare spending, payment flows, and system efficiency across the U.S., built on CMS NHE data.
 
 Includes:
@@ -46,7 +56,6 @@ Includes:
 **View the Code:** [View U.S. Healthcare Report Code](U.S._Healthcare_Report_RMD.Rmd)
 
 ### **Medicare Payment Variability & Revenue Leakage Detection Model**
-
 A claims-based analysis of Medicare payment variability across 2,845 providers, identifying where charges and payments decouple and quantifying the recoverable revenue opportunity by DRG.
 
 Includes:
@@ -60,7 +69,6 @@ Includes:
 **Open the Dashboard:** [View Revenue Leakage Report](Healthcare_Revenue_Leakage_Recovery_Model.html)
 
 ### **Tesla Fatal Crash Weather Analysis (FARS 2023)**
-
 A full analytical investigation into whether Tesla's camera-only perception system behaves differently in adverse weather conditions.
 
 Includes:
@@ -76,9 +84,9 @@ Includes:
 ## What You'll Find on This Site
 
 ### 🧾 Work Wins & Case Studies
-
 A sanitized rundown of my biggest contributions in analytics, including:
 
+- Enterprise cash reconciliation platform matching $971M+ in deposits against posting activity at a 98.5% match rate
 - Enterprise bad debt reporting program (per-facility, scaling from a hospital-level pilot)
 - All-facility and team-level underperformers reporting
 - Automated cross-team refund accuracy report (vendor reconciliation, scheduled distribution)
@@ -91,7 +99,6 @@ A sanitized rundown of my biggest contributions in analytics, including:
 [View Work Wins](./Work-wins.md)
 
 ### 👋 About Me
-
 A quick intro to my background, strengths, and technical stack.
 
 [View About Page](./About.md)
