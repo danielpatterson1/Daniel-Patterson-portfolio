@@ -13,8 +13,6 @@ Welcome to my analytics portfolio. This site is a walkthrough of the work I do i
 
 **Use the links below to explore my work:**
 
-- 💰 **Medicare Cash Reconciliation Dashboard (Dashboard Report)**
-  [View Cash Reconciliation Report](Medicare_Cash_Reconciliation.html)
 - 🏥 **U.S. Healthcare Cost, Payments and Efficiencies (Dashboard Report)**
   [View U.S. Healthcare Report](U.S._Healthcare_Dashboard.html)
 - 💵 **Medicare Payment Variability & Revenue Leakage Detection Model (Dashboard Report)**
@@ -29,19 +27,6 @@ Welcome to my analytics portfolio. This site is a walkthrough of the work I do i
 ---
 
 ## Featured Projects
-
-### **Medicare Cash Reconciliation Dashboard**
-An operational reconciliation platform matching Medicare deposit activity against AR payment-posting records across five previously incompatible data sources, built to give leadership real-time visibility into posting timeliness and exception risk.
-
-Includes:
-- Executive summary with match-rate and coverage metrics
-- Facility and fiscal-intermediary performance breakdowns
-- Posting-lag and aging trend analysis
-- Exception drill-down for unmatched deposits
-
-**Key figures:** $971M+ in deposits analyzed, 98.5% successfully traced to posting activity (99.5% of deposited cash), with $4.3M in actionable exceptions surfaced for review.
-
-**Open the Dashboard:** [View Cash Reconciliation Report](Medicare_Cash_Reconciliation.html)
 
 ### **U.S. Healthcare Costs, Payments, and Operational Efficiency**
 A comprehensive analysis of national healthcare spending, payment flows, and system efficiency across the U.S., built on CMS NHE data.
@@ -58,6 +43,59 @@ Includes:
 ### **Medicare Payment Variability & Revenue Leakage Detection Model**
 A claims-based analysis of Medicare payment variability across 2,845 providers, identifying where charges and payments decouple and quantifying the recoverable revenue opportunity by DRG.
 
+Includes:
+- Executive summary with key financial exposure metrics
+- DRG-level distribution & opportunity segmentation
+- Hospital-level impact and top recovery targets
+- Recommended actions and business impact takeaways
+
+**Key figures:** $8.2B in overpayment exposure identified, with $7B in recoverable revenue surfaced — concentrated heavily among the top 10 providers.
+
+**Open the Dashboard:** [View Revenue Leakage Report](Healthcare_Revenue_Leakage_Recovery_Model.html)
+
+### **Tesla Fatal Crash Weather Analysis (FARS 2023)**
+A full analytical investigation into whether Tesla's camera-only perception system behaves differently in adverse weather conditions.
+
+Includes:
+- KPI dashboard
+- Executive summary
+- Odds ratios & statistical testing
+- Visuals and narrative insights
+
+**Open the report:** [tesla-report.html](./tesla-report.html)
+
+---
+
+## What You'll Find on This Site
+
+### 🧾 Work Wins & Case Studies
+A sanitized rundown of my biggest contributions in analytics, including:
+
+- Enterprise cash reconciliation platform matching $971M+ in deposits against posting activity at a 98.5% match rate
+- Enterprise bad debt reporting program (per-facility, scaling from a hospital-level pilot)
+- All-facility and team-level underperformers reporting
+- Automated cross-team refund accuracy report (vendor reconciliation, scheduled distribution)
+- $3.62M duplicate payment identification and ~60% month-over-month reduction
+- Automated Medicaid Due Diligence Report ($671K in actionable backlog in month one; ~$1M projected in write-offs)
+- Automated one-click reporting pipelines
+- Medicaid AR dashboards
+- Credit Balance operational reporting suite
+
+[View Work Wins](./Work-wins.md)
+
+### 👋 About Me
+A quick intro to my background, strengths, and technical stack.
+
+[View About Page](./About.md)
+
+---
+
+## 📬 Contact Me
+
+**LinkedIn:** [linkedin.com/in/daniel-patterson-b03a5718b](https://www.linkedin.com/in/daniel-patterson-b03a5718b)
+**Email:** [dpatterson6575@gmail.com](mailto:dpatterson6575@gmail.com)
+
+Thanks for visiting my portfolio.
 Includes:
 - Executive summary with key financial exposure metrics
 - DRG-level distribution & opportunity segmentation
