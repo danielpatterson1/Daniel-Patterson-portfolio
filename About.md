@@ -1,8 +1,3 @@
----
-layout: default
-title: About
----
-
 <div align="center" markdown="1">
 
 # Daniel Patterson
@@ -91,7 +86,9 @@ Computational Data Analytics track · Expected December 2028
 
 Outside of my day job I analyze public datasets, partly to stay sharp on methods I do not use daily.
 
-**Medicare Payment Variability Model** benchmarks 2,845 providers against DRG-level peer norms and surfaces **$8.2B in payment variance exposure**, built entirely on public CMS files.
+**Medicare Payment Variability Model** benchmarks 2,845 providers against DRG-level peer norms to find where submitted charges and realized Medicare payments decouple, surfacing **$8.2B in payment variance exposure** concentrated among the top 10 providers. Built entirely on public CMS files. The output is a triage list, not a recovery estimate, and the report says so plainly.
+
+**U.S. Healthcare Cost and Efficiency Dashboard** decomposes national health spending using the CMS National Health Expenditure accounts: which categories of care drive the total, how the payer mix between Medicare, Medicaid, private insurance, and out-of-pocket has shifted over decades, and where cost growth has accelerated against where it has flattened. Built in R with interactive plotly charts.
 
 **Tesla Fatal Crash Involvement Analysis** tests whether Teslas are over-involved in adverse-weather fatal crashes across 37,654 records in the NHTSA FARS file. The interesting part is that the answer is no: an apparent rain effect turns out to be geographic confounding, and the report quantifies exactly how small an effect the data could have detected. Finding and dismantling my own promising result taught me more than confirming one would have.
 
