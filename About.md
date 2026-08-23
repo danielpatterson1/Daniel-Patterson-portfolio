@@ -1,5 +1,7 @@
 <div align="center" markdown="1">
 
+<img src="headshot-400.jpg" alt="Daniel Patterson" width="160" height="160" style="border-radius:50%;">
+
 # Daniel Patterson
 
 ### Business Process Analyst III
