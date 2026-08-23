@@ -1,3 +1,7 @@
+<p align="center">
+<img src="headshot-400.jpg" alt="Daniel Patterson" width="170" height="170" style="border-radius:50%;">
+</p>
+
 <h1 align="center">Daniel Patterson</h1>
 <h3 align="center">Business Process Analyst III</h3>
 <p align="center"><b>Healthcare Revenue Cycle Analytics &middot; Reporting Automation &middot; Statistical Analysis</b></p>
