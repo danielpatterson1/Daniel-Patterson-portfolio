@@ -8,7 +8,7 @@
 <a href="./About.html"><img src="https://img.shields.io/badge/About_Me-1B365D?style=for-the-badge" alt="About"></a>
 <a href="Daniel_Patterson_Resume.pdf"><img src="https://img.shields.io/badge/Resume-C9A227?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
 
-<sub>Updated August 2026 · Figures are stated as scale and ratio rather than exact internal amounts</sub>
+<sub>Updated September 2026 · Figures are stated as scale and ratio rather than exact internal amounts</sub>
 
 </div>
 
@@ -20,15 +20,52 @@
 
 Over the last two years I have built analytics, automation, and reporting systems that made financial data more accurate, got insights to leadership faster, and gave operations tighter control across cash reconciliation, credit balance, Medicaid AR, bad debt, and refund reconciliation.
 
-In 2026 I was promoted to Business Process Analyst III and given near-full ownership of enterprise-wide bad debt and underperformer reporting across every facility in the network. The flagship bad debt report was selected for presentation up the leadership chain.
+In 2026 I was promoted to Business Process Analyst III and given near-full ownership of enterprise-wide bad debt and underperformer reporting across every facility in the network. Since then I have built the claim-to-cash dashboard the business office runs its mornings on and automated the daily cash posting review; both were presented at the quarterly town hall. The flagship bad debt report was selected for presentation up the leadership chain.
 
 | Theme | What it looks like |
 |:---|:---|
+| **Claim-to-cash visibility** | Every discharge followed from claim generation to payment, with one click from any number to the accounts behind it |
 | **Reconciliation at scale** | Multi-source matching across roughly a billion dollars in annual deposit volume at a 98.5% match rate |
 | **Automation** | Manual recurring reports converted into scheduled pipelines with one-click refresh and automated distribution |
 | **Payment integrity** | Duplicate detection and root cause analysis driving a sustained ~60% month-over-month reduction |
 | **Enterprise reporting** | Frameworks scaled from single-facility pilots to network-wide across 170+ hospitals |
 | **Standards** | Report layout standard and audit guidelines adopted across the analyst team |
+
+---
+
+## Flagship: Claim-to-Cash Dashboard
+
+**The problem.** Leadership could see the accounts receivable total but not where individual claims were stuck: which had never been built, which were built but never sent, which the payer had answered, and which had gone silent. Finding out meant pulling a spreadsheet and filtering it by hand.
+
+**What I built.** An eleven-page dashboard that follows every discharge since the start of the fiscal period through claim generation, release, payer response and payment, and shows where each one stopped. Every chart opens the accounts behind it, in the report itself, with an Excel export of exactly those rows, so nobody has to ask analytics for a list. Over the first three weeks it grew on user feedback: unreleased claims split by cause (never built, held on a billing edit, built but never sent), a Medicare book of business by discharge month and fiscal intermediary, electronic-versus-paper claim routing by payer, and the clearinghouse claim identifiers on every account so the AR team can go straight from the list to the claim.
+
+| Measure | Result |
+|:---|:---|
+| Discharges followed | 110,000+ across 170+ facilities |
+| Expected payment tracked | $1.6B+ |
+| Report pages | 11, every chart clickable to the accounts |
+| Time to adoption | Director and AR teams working from it within two weeks |
+
+**Why the click-through mattered.** The first version answered "what is the number". The click-through changed the question to "why is this facility different", and the director found a paper-claim pattern for one payer group and a data gap on two accounts directly from the report, without a data request. It was presented at the quarterly town hall.
+
+Full end-to-end build: source design across the patient accounting, claim output and hospital reference data, the derived-field logic for every stage, the click-through and export layer, the daily automated render and send, and every revision from three rounds of director and manager feedback.
+
+---
+
+## Flagship: Daily Cash Posting Review
+
+**The problem.** An assistant director reviewed the bank deposit log against patient-accounting postings by hand every morning: raw exports, manual row deletions, a pivot of variance count and dollars by facility, and an email. The judgment in that review lived in one person.
+
+**What I built.** A daily dashboard that reproduces the review from the source feeds and applies her rules: which deposits are genuinely open, which are auto-posts still inside their posting window, which are set aside with a reason that has since gone stale, and which have never been touched. Views by facility, by assigned rep, and over time, with a separate copy for Puerto Rico and every bar clickable to the deposits behind it. It was validated in parallel against her manual review: nothing on her list was missing from the report, and every difference was a rule I could name and she could rule on.
+
+| Measure | Result |
+|:---|:---|
+| Match against the manual review | Nothing missed |
+| Dollars sitting over 30 days, launch to three weeks later | Down 78% |
+| Deposits over 30 days old, same period | 118 to 68 |
+| Distribution | Fourteen recipients daily; managers forward it to their teams |
+
+**What the managers said.** One-click access to outstanding items by facility or by employee; the lists of what needs a new note, a carry-forward update or an escalation; auto-posts inside their window kept apart from those past it; and high-dollar items visible at a glance so they can point their teams at what matters that day. The old dollars came down because they became visible every morning.
 
 ---
 
@@ -209,6 +246,8 @@ I am currently onboarding and mentoring an analytics intern on audit procedures,
 - Reporting format adopted organization-wide
 - Invited to present findings to leadership groups and a 100+ person cross-functional audience
 - Recognized for visual design, clarity, and legibility, with same-day sign-off on delivered work
+- Claim-to-cash dashboard adopted by the director and AR teams within two weeks and presented at the quarterly town hall
+- Daily cash posting review adopted by every central business office manager for their teams
 
 ---
 
