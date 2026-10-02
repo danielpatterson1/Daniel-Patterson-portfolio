@@ -70,7 +70,7 @@ Computational Data Analytics track · Expected December 2028
 
 **Promoted to Business Process Analyst III**, a role shaped in part by the automation work below.
 
-**Claim-to-cash dashboard.** An eleven-page report following every discharge (**110,000+** across 170+ facilities, **$1.6B+** expected payment) through claim generation, release, payer response and payment, with one click from any number to the accounts behind it. Adopted by the director and AR teams within two weeks and presented at the quarterly town hall.
+**Claim-to-cash dashboard.** An eleven-page report following every discharge (**100K+** across 170+ facilities, **$1.5B+** expected payment) through claim generation, release, payer response and payment, with one click from any number to the accounts behind it. Adopted by the director and AR teams within two weeks and presented at the quarterly town hall.
 
 **Daily cash posting review.** Automated an assistant director's morning deposit-log review into a dashboard validated in parallel with nothing missed; dollars sitting over 30 days fell **78%** in the first three weeks, and every central business office manager now forwards it to their team.
 

@@ -41,8 +41,8 @@ In 2026 I was promoted to Business Process Analyst III and given near-full owner
 
 | Measure | Result |
 |:---|:---|
-| Discharges followed | 110,000+ across 170+ facilities |
-| Expected payment tracked | $1.6B+ |
+| Discharges followed | 100K+ across 170+ facilities |
+| Expected payment tracked | $1.5B+ |
 | Report pages | 11, every chart clickable to the accounts |
 | Time to adoption | Director and AR teams working from it within two weeks |
 
@@ -62,7 +62,7 @@ Full end-to-end build: source design across the patient accounting, claim output
 |:---|:---|
 | Match against the manual review | Nothing missed |
 | Dollars sitting over 30 days, launch to three weeks later | Down 78% |
-| Deposits over 30 days old, same period | 118 to 68 |
+| Deposits over 30 days old, same period | Down about 40% |
 | Distribution | Fourteen recipients daily; managers forward it to their teams |
 
 **What the managers said.** One-click access to outstanding items by facility or by employee; the lists of what needs a new note, a carry-forward update or an escalation; auto-posts inside their window kept apart from those past it; and high-dollar items visible at a glance so they can point their teams at what matters that day. The old dollars came down because they became visible every morning.
@@ -75,15 +75,15 @@ Full end-to-end build: source design across the patient accounting, claim output
 
 **What I built.** A reconciliation framework spanning five separate data sources. A large share of the effort went into standardizing account numbers and payment identifiers across systems that each formatted them differently, stripping prefixes, letters, and inconsistent formatting so records could be matched with confidence. On top of the standardized identifiers I built a confidence-scoring model that rates each payment match by how many independent sources support it.
 
-Initial reconciliation covered roughly 37,000 payment records tied to over 29,000 accounts, with about two-thirds independently supported by at least one outside source. From there it evolved into an operational dashboard tracking deposits by facility and fiscal intermediary, calculating true posting lag, the actual number of days between a deposit landing and the matching payment posting, rather than relying on a date-tolerance approximation.
+Initial reconciliation covered roughly 35K payment records tied to nearly 30K accounts, with about two-thirds independently supported by at least one outside source. From there it evolved into an operational dashboard tracking deposits by facility and fiscal intermediary, calculating true posting lag, the actual number of days between a deposit landing and the matching payment posting, rather than relying on a date-tolerance approximation.
 
 | Measure | Result |
 |:---|:---|
 | Match rate, deposits traced to posting activity | **98.5%** |
 | Match rate by dollar value | **99.5%** |
-| Exact penny-level agreements between systems | **5,400+** |
+| Exact penny-level agreements between systems | **5K+** |
 | Median posting lag | **Same day** |
-| Unmatched deposits narrowed to actionable exceptions | **113** |
+| Unmatched deposits narrowed to actionable exceptions | **About 100** |
 
 > **Why the median mattered as much as the exceptions.** The reconciliation was commissioned to find problems, and it did surface an auto-posting break worth reviewing. But the same-day median also confirmed that existing posting processes were working well, which is a finding leadership needed just as much and would not have had otherwise.
 
@@ -189,7 +189,7 @@ One-click refresh, lower error risk, faster cadence, and a reusable framework I 
 
 Built to find where balance concentration, plan-level delays, and operational risk were actually sitting.
 
-Findings: balances concentrated in a small number of high-volume facility groups; a handful of payer plan codes accounting for a disproportionate share of impact; select segments seeing discharge-to-payment delays of 400 to 580+ days; and payments concentrated within a specific high-volume claim series.
+Findings: balances concentrated in a small number of high-volume facility groups; a handful of payer plan codes accounting for a disproportionate share of impact; select segments seeing discharge-to-payment delays of well over a year; and payments concentrated within a specific high-volume claim series.
 
 The report gave the team targeted follow-up insights, clear segmentation to guide operations, auto-refresh capability, and plan-level payment behavior visibility that did not exist before.
 

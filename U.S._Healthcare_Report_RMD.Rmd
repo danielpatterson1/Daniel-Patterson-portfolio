@@ -31,9 +31,9 @@ library(janitor)
 
 ```{r load_cms_nhe_data, include=FALSE}
 # --------------------------------------------------
-# Base directory for CMS NHE tables (HARD REFERENCED)
+# Base directory for CMS NHE tables (relative to the project folder)
 # --------------------------------------------------
-nhe_dir <- "C:/Users/patterd7/Desktop/PERSONAL/PORTFOLIO/U.S. Healthcare Costs, Payments, and Operational Efficiency/nhe24-tables"
+nhe_dir <- "data/nhe24-tables"
 
 # Verify directory exists
 stopifnot(dir.exists(nhe_dir))
@@ -1342,7 +1342,7 @@ library(readr)
 # --------------------------------------------------
 # Load raw Table 02
 # --------------------------------------------------
-table02_path <- "C:/Users/patterd7/Desktop/PERSONAL/PORTFOLIO/U.S. Healthcare Costs, Payments, and Operational Efficiency/nhe24-tables/Table 02 National Health Expenditures, Aggregate and Per Capita Amounts, by Type of Expenditure.xlsx"
+table02_path <- file.path(nhe_dir, "Table 02 National Health Expenditures, Aggregate and Per Capita Amounts, by Type of Expenditure.xlsx")
 
 raw_tbl <- read_excel(
   table02_path,
